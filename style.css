@@ -210,7 +210,8 @@ header .navbar ul li a:hover{
     padding-left: 40%;
     padding-top: 20px;
 }
-
+.box-container .box:hover{
+    transform:translateY(-10px);
 
 .contact .row{
     display: flex;
