@@ -349,6 +349,9 @@ header .navbar ul li a:hover{
         margin-left: 1px;
         margin-right: 10px;
     }
+    .box-container .box:hover{
+    transform:translateY(-10px);
+    }
     .contact .row .content{
         font-size: 12px;
         margin-left: 10px;
