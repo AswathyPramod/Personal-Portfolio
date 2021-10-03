@@ -212,6 +212,7 @@ header .navbar ul li a:hover{
 }
 .box-container .box:hover{
     transform:translateY(-10px);
+}
 
 .contact .row{
     display: flex;
