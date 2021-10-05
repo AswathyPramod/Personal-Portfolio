@@ -165,6 +165,9 @@ header .navbar ul li a:hover{
    
     
 }
+.about .row .info .btn{
+    margin:20px 0 0 400px;
+}
 .about .row .info p{
     height: 450px;
     width: 400px;
@@ -211,15 +214,7 @@ header .navbar ul li a:hover{
     padding-top: 20px;
     
 }
-.skills .box-container .quote{
-    color: cornsilk;
-    margin:150px 0 0 40px;
-    font-size: 20px;
-}
-.skills .box-container .quote span{
-    color: rgb(120, 153, 120);
 
-}
 .box-container .box:hover{
     transform:translateY(-10px);
     }
@@ -339,16 +334,14 @@ header .navbar ul li a:hover{
         width: 280px;
         border-radius: 5%;
     }
+    .about .row .info .btn{
+        margin-left: 75px;
+    }
     .skills .box-container .box{
         margin-left:45px ;
        
     }
-    .skills .box-container .quote{
-        font-size: 15px;
-        margin-top: 25px;
-        margin-left: 1px;
-        margin-right: 10px;
-    }
+    
     .box-container .box:hover{
     transform:translateY(-10px);
     }
